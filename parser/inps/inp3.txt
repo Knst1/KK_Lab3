@@ -1,0 +1,5 @@
+begin 
+	identifier := identifier  ;
+	identifier := ( const + const ) * con4st < > identifier + const / identifier = const => ( const ) ;
+	identifier := identifier * const = identifier
+end

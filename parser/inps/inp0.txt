@@ -1,0 +1,5 @@
+ bgin begin bein begin 
+identifier  
+:=	identifier  ;
+identifier := ( co5nst + const ) * const
+end end

@@ -1,0 +1,6 @@
+begin 
+end
+begin 
+	identifier := identifier  ;
+	identifier := ( const + const ) * const <> identifier + const ;
+end
